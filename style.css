@@ -13,12 +13,19 @@ background-color: rgb(255, 0, 191);
 
 }
 .img{
-max-width: 15%;
+max-width: 50%;
 height: auto;
 border-radius: 10px;
 
 }
-.sonhos{
+.sonhos{background-color: thistle;
+color: black;
+padding: 20px;
+margin: 20px;
+text-align: center;
+font-size: 18px;
+
+
 background-color: blueviolet;
 color: black;
 padding: 20px;
